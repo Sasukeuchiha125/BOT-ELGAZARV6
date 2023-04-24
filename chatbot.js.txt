@@ -10,7 +10,7 @@ let chat = global.db.data.chats[m.chat]
 
 }
    if (/^يب$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, `🗿 استرجل و قول نعم`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+    conn.reply(m.chat, `صلي علي النبي❤`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 } 
   if (/^نعم$/i.test(m.text) ) { //sem prefixo
@@ -21,24 +21,24 @@ let chat = global.db.data.chats[m.chat]
     conn.reply(m.chat, `عيونو في ايش اساعدك`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 } 
-  if (/^مغربي$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, `فوق راسه تاج يوصخ`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+  if (/^مصري$/i.test(m.text) ) { //sem prefixo
+    conn.reply(m.chat, `فوق راسه تاج❤`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 } 
   if (/^🙂$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, `🙂 انظر بعيد`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+    conn.reply(m.chat, `مالك؟  وش تبي؟  وش تريد؟  ايش مرضك؟  شوضعك؟ `, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 } 
   if (/^🗿$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, `وجهك مصطح وش بيك 🤔`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+    conn.reply(m.chat, `يارب صبرني علي البني ادم ده🥸`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 }
    if (/^ليش$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, `لانك بنوته`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+    conn.reply(m.chat,`ليش انت غبي؟ `, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 } 
    if (/^انا جيت$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, `ويلكم باك يا اصطوره`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+    conn.reply(m.chat, `نـورت يـاروح الـروح❤️‍🔥✨`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 } 
    if (/^بتزوجك$/i.test(m.text) ) { //sem prefixo
@@ -46,48 +46,48 @@ let chat = global.db.data.chats[m.chat]
 
 } 
  if (/^نلعب$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, `لعب للاطفال`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+    conn.reply(m.chat, `روح ذاكر`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 } 
  if (/^همم$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, `همم`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+    conn.reply(m.chat, `همم في عينك`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 } 
  if (/^احا$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, `اوه قويه`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+    conn.reply(m.chat, `احا فوق احتك عيب يا متخلف`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 } 
 if (/^هلا$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, `هلوات`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+    conn.reply(m.chat, `هلا وغلا`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 }
 if (/^ا$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, `اكتب a `, m) //wm, null, [['Menu', '#menu']], m) botones :V
+    conn.reply(m.chat, `مصدوم؟`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 }
 
-if (/^الحمد لله$/i.test(m.text) ) { //sem prefixo
+if (/^الحمدلله$/i.test(m.text) ) { //sem prefixo
     conn.reply(m.chat, ` دوم يا رب، ايش تسوي؟ `, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 }
 
-if (/^يوي$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, ` ماذا ؟ `, m) //wm, null, [['Menu', '#menu']], m) botones :V
+if (/^ربنا ياخدك$/i.test(m.text) ) { //sem prefixo
+    conn.reply(m.chat, ` ياخدك اول وبعدها باجي وراك😁 `, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 }
 
-if (/^لا شيء و انت$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, ` اكلمك, `, m) //wm, null, [['Menu', '#menu']], m) botones :V
+if (/^مالك$/i.test(m.text) ) { //sem prefixo
+    conn.reply(m.chat, ` هموت يا صحبي💔, `, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 }
 
-if (/^مم$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat,teks, m ` منورة بوند`, hi) //wm, null, [['Menu', '#menu']], m) botones :V
+if (/^. $/i.test(m.text) ) { //sem prefixo
+    conn.reply(m.chat,teks, m `منور/ه❤️‍🔥`, hi) //wm, null, [['Menu', '#menu']], m) botones :V
 
 }
 
 if (/^بوت زق$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, ` زق في عينك يا وجه البيضة`, m) //wm, null, [['Menu', '#menu']], m) botones :V
+    conn.reply(m.chat, `انذار اذا شتمت البوت ثاني مره البوت بيطلع من الجروب⚠️`, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 }
 
@@ -111,7 +111,7 @@ if (/^حرامي$/i.test(m.text) ) { //sem prefixo
 
 
 if (/^ملل$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, ` نعرف فا اسكت `, m) //wm, null, [['Menu', '#menu']], m) botones :V
+    conn.reply(m.chat, `  عندك شئ يسلينا؟ `, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 }
 
@@ -125,8 +125,8 @@ if (/^تصبح على خير/i.test(m.text) ) { //sem prefixo
 
 } 
 
-if (/^احبيك$/i.test(m.text) ) { //sem prefixo
-    conn.reply(m.chat, ` اكثر `, m) //wm, null, [['Menu', '#menu']], m) botones :V
+if (/^بوت احبك$/i.test(m.text) ) { //sem prefixo
+    conn.reply(m.chat, ` 😁❤اكثر `, m) //wm, null, [['Menu', '#menu']], m) botones :V
 
 }
    
